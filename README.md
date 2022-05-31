@@ -15,19 +15,19 @@
        bottom: 0px;
        position: fixed;
        width: 100%;
-       height: 150px;
+       height: 50px;
        background: cyan;
        color: red;
-       font-size: 100px;
+       font-size: 20px;
        font-style: italic;
      }
       .header{
        background: hotpink;
-       height: 150px;
+       height: 50px;
        width: 100%;
        left: 0px;
        bottom: 0px;
-       font-size: 100px;
+       font-size: 20px;
        font-style: italic;
        color: greenyellow;
      }
@@ -191,7 +191,7 @@ function gotowhatsapp() {
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <p style="color: magenta;font-size: 80px;"><i><b>This project is used for backend. We will reach you directly on WhatsApp by filling this form.</b></i>
+  <p style="color: magenta;font-size: 10px;"><i><b>This project is used for backend. We will reach you directly on WhatsApp by filling this form.</b></i>
   </p>
   
           <div class="footer"><center>I'm Footer</center></div>
