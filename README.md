@@ -87,7 +87,7 @@
             role="tabpanel"
             aria-labelledby="home-tab"
           >
-            <h3 class="register-heading text-nowrap">HTML Form to whatsapp</h3>
+            <h3 class="register-heading text-nowrap">HTML FORM</h3>
             <div class="row register-form">
               <div class="col-md-12">
                 <form autocomplete="off">
