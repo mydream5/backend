@@ -153,9 +153,9 @@ class="float"
 onclick="gotowhatsapp()"
 style="
   position: fixed;
-  width: 50px;
-  height: 50px;
-  bottom: 300px;
+  width: 40px;
+  height: 40px;
+  bottom: 50px;
   right:  120px;
   color: #fff;
   border-radius: 50px;
@@ -167,8 +167,8 @@ style="
 <img
   src="https://trickuweb.com/whatsapp.png"
   alt=""
-  height="60px"
-  width="60px"
+  height="40px"
+  width="40px"
 />
 </span>
 <script>
