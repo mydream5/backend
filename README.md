@@ -156,7 +156,7 @@ style="
   width: 40px;
   height: 40px;
   bottom: 50px;
-  right:  120px;
+  right:  12px;
   color: #fff;
   border-radius: 50px;
   text-align: center;
@@ -191,7 +191,7 @@ function gotowhatsapp() {
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <p style="color: magenta;font-size: 10px;"><i><b>This project is used for backend. We will reach you directly on WhatsApp by filling this form.</b></i>
+  <p style="color: magenta;font-size: 10px;"><i>This project is used for backend. We will reach you directly on WhatsApp by filling this form.</i>
   </p>
   
           <div class="footer"><center>I'm Footer</center></div>
